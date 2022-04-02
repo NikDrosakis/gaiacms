@@ -1,8 +1,8 @@
-# gaiacms
+# gaiasys
 exprerimenting simplicity in a new system approach to blogging
 
 THE MYTH
-<p>In Greek mythology, Gaia from Ancient Greek "land" or "earth" in Greek mythology, also spelled Gaea, was the personification of the Earth and one of the Greek primordial deities. Gaia was the great mother of all: the primal Greek Mother Goddess; creator and giver of birth to the Earth and all the Universe; the heavenly gods, the Titans, and the Giants were born to her. </p><p>
+<p>In Greek mythology, Gaia in mythology (etymology from Ancient Greek "earth") was the personification of the Earth and one of the Greek primordial deities. Gaia was the great mother of all: the primal Greek Mother Goddess; creator and giver of birth to the Earth and all the Universe; the heavenly gods, the Titans, and the Giants were born to her. </p><p>
 </p><p>As any myth that is based on facts, discoveries and inventions, Gaiasys has the vision to become a CMS and a platform bridging web and mobile technologies. Gaia is intended to be the root system for creating apps and websites and a creative lab where other elements can exist.&nbsp;</p>****
 
 ARCHITECTURE
