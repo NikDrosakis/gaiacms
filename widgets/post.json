@@ -1,0 +1,10 @@
+{
+"version":"1.0",
+"headline": "Featured",
+"method": "post",
+"wherekey": "select|id,title",  
+"where":"",
+"limit":"1",
+"orderby":"post.id DESC",
+"to": "#ele1"
+}

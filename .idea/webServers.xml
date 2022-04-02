@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6fe05b42-9902-433e-850e-0ecae161433a" name="gaiacms" url="https://nikosdrosakis.gr">
+        <fileTransfer rootFolder="/var/www/gaia" accessType="SFTP" host="192.168.2.2" port="22" sshConfigId="23ea1fab-9a3f-4624-838e-79746b7a7658" sshConfig="root@192.168.2.2:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

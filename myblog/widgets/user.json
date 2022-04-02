@@ -1,0 +1,11 @@
+{
+  "widget": "user",
+  "version": "1.0",
+  "file": "user.php",
+  "headline": "User",
+  "method": "user",
+  "wherekey": "",
+  "where": "",
+  "limit": "",
+  "orderby": ""
+}

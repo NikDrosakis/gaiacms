@@ -1,0 +1,10 @@
+{
+  "widget": "archieve",
+  "version": "1.0",
+  "headline": "Featured",
+  "method": "archieve",
+  "wherekey": "select|id,name",
+  "where": "",
+  "limit": "2",
+  "orderby": "post.id DESC"
+}

@@ -1,0 +1,120 @@
+{
+    "globs": {
+        "id": "",
+        "name": "",
+        "en": "",
+        "tag": "",
+        "type": "",
+        "summary": "",
+        "permit": ""
+    },
+    "links": {
+        "id": "",
+        "menuid": "",
+        "parentid": "",
+        "title": "",
+        "uri": "",
+        "type": "",
+        "sort": ""
+    },
+    "menu": {
+        "id": "",
+        "orient": "",
+        "title": "",
+        "style": "",
+        "children": ""
+    },
+    "obj": {
+        "id": "",
+        "uid": "",
+        "objgroupid": "",
+        "title": "",
+        "summary": "",
+        "filename": "",
+        "status": "",
+        "privacy": "",
+        "created": "",
+        "modified": ""
+    },
+    "objgroup": {
+        "id": "",
+        "name": "",
+        "format": "",
+        "multiple": ""
+    },
+    "post": {
+        "id": "auto",
+        "uid": "auto-user.name",
+        "uri": "text",
+        "taxid": "",
+        "tags": "",
+        "img": "img-upload",
+        "title": "text",
+        "titlegr": "text",
+        "subtitle": "text",
+        "subtitlegr": "text",
+        "sort": "number",
+        "status": "select-status",
+        "postgrpid": "select-postgrps",
+        "excerpt": "textarea-editor",
+        "excerptgr": "textarea-editor",
+        "content": "textarea-editor",
+        "contentgr": "textarea-editor",
+        "html1": "textarea-editor",
+        "html2": "textarea-editor",
+        "html3": "textarea-editor",
+        "seodescription": "textarea",
+        "seopriority": "decimal",
+        "created": "date-read",
+        "modified": "date-read",
+        "published": "date-read"
+    },
+    "postgrp": {
+        "id": "",
+        "name": "",
+        "status": ""
+    },
+    "tax": {
+        "id": "",
+        "parent": "",
+        "img": "img-upload",
+        "name": "",
+        "taxgrpid": ""
+    },
+    "taxgrp": {
+        "id": "",
+        "name": "",
+        "status": "",
+        "parenting": "",
+        "multiple": ""
+    },
+    "user": {
+        "id": "auto",
+        "grp": "select-usergrps",
+        "img": "img-upload",
+        "name": "text",
+        "pass": "hidden-password",
+        "firstname": "text",
+        "lastname": "text",
+        "title": "text",
+        "url": "text",
+        "mail": "text",
+        "tel": "text",
+        "status": "select-status",
+        "phase": "select-phase",
+        "content": "textarea-editor",
+        "lang": "select-langs",
+        "auth": "hidden",
+        "sp": "hidden",
+        "seodescription": "textarea",
+        "seopriority": "decimal",
+        "last_login": "hidden",
+        "registered": "hidden",
+        "modified": "hidden"
+    },
+    "usergrp": {
+        "id": "",
+        "name": "",
+        "permissions": ""
+    }
+}

@@ -1,0 +1,11 @@
+{
+"version":"1.0",
+"headline": "Featured",
+"file": "post.php",
+"method": "post",
+"wherekey": "select-post.title",
+"where":"",
+"limit":"1",
+"orderby":"post.id DESC",
+"to": "#ele1"
+}

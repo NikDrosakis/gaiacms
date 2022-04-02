@@ -1,0 +1,11 @@
+{
+  "widget": "menutop",
+  "version": "1.0",
+  "file": "menutop.php",
+  "headline": "",
+  "method": "menu",
+  "wherekey": "select-menu.title",
+  "where": "top",
+  "limit": "0",
+  "orderby": "links.sort"
+}

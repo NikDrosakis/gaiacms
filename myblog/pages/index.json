@@ -1,0 +1,67 @@
+{
+  "areas": [
+    "#ele1",
+    "#sidebar",
+    "#sidewidget1",
+    "#toptitle",
+    "#sidebar2",
+    "#footcol1",
+    "#footcol2",
+    "#footcol3",
+    "#footcol4"
+  ],
+  "order": {
+    "ele1": {
+      "menu": {
+        "version": "1.0",
+        "wherekey": "select-menu.title",
+        "method": "menu",
+        "to": "ele1",
+        "headline": "",
+        "where": "neomenu",
+        "limit": "1",
+        "orderby": ""
+      },
+      "post": {
+        "version": "1.0",
+        "wherekey": "",
+        "method": "post",
+        "to": "ele1",
+        "headline": "Featured",
+        "where": "",
+        "limit": "",
+        "orderby": ""
+      }
+    },
+    "sidebar": {
+      "archieve": {
+        "version": "1.0",
+        "wherekey": "select-tax.name",
+        "method": "archieve",
+        "to": "sidebar",
+        "headline": "Featured",
+        "where": "doc",
+        "limit": "5",
+        "orderby": "post.id DESC"
+      }
+    },
+    "sidewidget1": {
+      "archieve": {
+        "version": "1.0",
+        "wherekey": "select-tax.name",
+        "method": "archieve",
+        "to": "sidewidget1",
+        "headline": "Featured",
+        "where": "glossary",
+        "limit": "4",
+        "orderby": "post.id DESC"
+      }
+    },
+    "toptitle": {},
+    "sidebar2": {},
+    "footcol1": {},
+    "footcol2": {},
+    "footcol3": {},
+    "footcol4": {}
+  }
+}

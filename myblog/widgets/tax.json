@@ -1,0 +1,11 @@
+{
+"version":"1.0",
+"headline": "Taxonomies",
+"file": "tax.php",
+"method": "tax",
+"wherekey":"",
+"where":"",
+"limit":"1",
+"orderby":"tax.id DESC",
+"to": "#ele1"
+}

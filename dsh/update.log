@@ -1,0 +1,8 @@
+2020/01/14 23:36:20 [32360] building file list
+2020/01/14 23:36:20 [32360] <f.sT...... blogfest-0.56.tar.gz
+2020/01/14 23:36:20 [32360] sent 132.62K bytes  received 3.88K bytes  91.00K bytes/sec
+2020/01/14 23:36:20 [32360] total size is 448.40K  speedup is 3.28
+2020/01/14 23:36:20 [32408] building file list
+2020/01/14 23:36:20 [32408] <f.sT...... blogfest/template.json
+2020/01/14 23:36:20 [32408] sent 7,231 bytes  received 58 bytes  14,578.00 bytes/sec
+2020/01/14 23:36:20 [32408] total size is 1,344,171  speedup is 184.41

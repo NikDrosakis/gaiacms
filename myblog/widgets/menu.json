@@ -1,0 +1,11 @@
+{
+  "widget": "menu",
+  "version": "1.0",
+  "file": "menu.php",
+  "method": "menu",
+  "wherekey": "select-menu.title",
+  "where": "top",
+  "limit": "1",
+  "orderby": ""
+}
+

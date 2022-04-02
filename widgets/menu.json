@@ -1,0 +1,10 @@
+{
+  "widget": "menu",
+  "version": "1.0",
+  "method": "menu",
+  "wherekey": "select|id,title",  
+  "where": "top",
+  "limit": "1",
+  "orderby": ""
+}
+

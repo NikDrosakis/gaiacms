@@ -1,0 +1,10 @@
+{
+  "widget": "user",
+  "version": "1.0",
+  "headline": "User",
+  "method": "user",
+  "wherekey": "",
+  "where": "",
+  "limit": "",
+  "orderby": ""
+}

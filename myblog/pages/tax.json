@@ -1,0 +1,29 @@
+{
+  "areas": [
+    "#ele1",
+    "#sidebar",
+    "#sidewidget1",
+    "#toptitle",
+    "#sidebar2",
+    "#footcol1",
+    "#footcol2",
+    "#footcol3",
+    "#footcol4"
+  ],
+  "order": {
+     "ele1": {
+      "tax": {
+        "version": "1.0",
+		"type":"undraggable",
+        "file": "tax.php",
+        "wherekey": "",
+        "method": "tax",
+        "to": "ele1",
+        "headline": "Taxonomies",
+        "where": "",
+        "limit": "",
+        "orderby": ""		
+      }
+    }
+  }
+}

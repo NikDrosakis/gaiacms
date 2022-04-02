@@ -1,0 +1,37 @@
+{
+  "areas": [
+    "#ele1",
+    "#sidebar",
+    "#sidebar2",
+    "#footcol1",
+    "#footcol2",
+    "#footcol3",
+    "#footcol4"
+  ],
+  "order": {
+    "ele1": {
+      "menu": {
+        "version": "1.0",
+        "file": "menu.php",
+        "method": "menu",
+        "to": "ele1",
+        "headline": "",
+        "where": "",
+        "limit": "",
+        "orderby": ""
+      }
+    },
+    "sidebar": {
+      "archieve": {
+        "version": "1.0",
+        "file": "archieve.php",
+        "method": "archieve",
+        "to": "sidebar",
+        "headline": "Featured",
+        "where": "",
+        "limit": "2",
+        "orderby": "post.id DESC"
+      }
+    }
+  }
+}

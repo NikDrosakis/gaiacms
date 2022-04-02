@@ -1,0 +1,18 @@
+{
+  "areas": ["#ele1"],
+  "order": {
+      "ele1": {
+      "search": {
+        "version": "1.0",
+        "type": "undraggable",        
+        "wherekey": "",
+        "method": "search",
+        "to": "ele1",
+        "headline": "Search Results",
+        "where": "",
+        "limit": "",
+        "orderby": ""
+      }
+    }
+  }
+}

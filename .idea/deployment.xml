@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="gaiacms" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="gaiacms">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/aimd5.com" />
+            <excludedPath path="/apps" />
+            <excludedPath path="/c" />
+            <excludedPath path="/cpp" />
+            <excludedPath path="/django" />
+            <excludedPath path="/erlang" />
+            <excludedPath path="/flask" />
+            <excludedPath path="/html" />
+            <excludedPath path="/java" />
+            <excludedPath path="/kafka" />
+            <excludedPath path="/kostaszacharakis.com" />
+            <excludedPath path="/kotlin" />
+            <excludedPath path="/logs" />
+            <excludedPath path="/lua" />
+            <excludedPath path="/nginx" />
+            <excludedPath path="/node_modules" />
+            <excludedPath path="/org" />
+            <excludedPath path="/parapera.gr" />
+            <excludedPath path="/perl" />
+            <excludedPath path="/phpcpp" />
+            <excludedPath path="/pylib" />
+            <excludedPath path="/r" />
+            <excludedPath path="/react" />
+            <excludedPath path="/repo" />
+            <excludedPath path="/ruby" />
+            <excludedPath path="/rust" />
+            <excludedPath path="/scala" />
+            <excludedPath path="/sqlite" />
+            <excludedPath path="/store" />
+            <excludedPath path="/templates" />
+            <excludedPath path="/tomcat" />
+            <excludedPath path="/tools" />
+            <excludedPath path="/tor" />
+            <excludedPath path="/vue" />
+            <excludedPath path="/404.html" />
+            <excludedPath path="/502.html" />
+            <excludedPath path="/all_databases.sql" />
+            <excludedPath path="/apache2" />
+            <excludedPath path="/gaia.json" />
+            <excludedPath path="/installation.sh.save" />
+            <excludedPath path="/maria2sqlite.sh" />
+            <excludedPath path="/mkdirdros.sh" />
+            <excludedPath path="/mkdirdros.sh.save" />
+            <excludedPath path="/newreact.sh" />
+            <excludedPath path="/nik2.pem" />
+            <excludedPath path="/package-lock.json" />
+            <excludedPath path="/package.json" />
+            <excludedPath path="/php2mongo.sh" />
+            <excludedPath path="/reactall.sh.save" />
+            <excludedPath path="/rsc-installer.sh" />
+            <excludedPath path="/setup.old" />
+            <excludedPath path="/startservers.sh" />
+            <excludedPath path="/u21ver" />
+            <excludedPath path="/nikosdrosakis.gr" />
+            <excludedPath path="/gaia/error.log" />
+            <excludedPath path="/error.log" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

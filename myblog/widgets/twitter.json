@@ -1,0 +1,10 @@
+{
+  "widget": "twitter",
+  "version": "1.0",
+  "file": "twitter.php",
+  "headline": "Tweet",
+  "method": "",
+  "where": "",
+  "limit": "",
+  "orderby": ""
+}

@@ -1,0 +1,11 @@
+{
+  "widget": "archieve",
+  "version": "1.0",
+  "file": "archieve.php",
+  "headline": "Featured",
+  "method": "archieve",
+  "wherekey": "select-tax.name",
+  "where": "",
+  "limit": "2",
+  "orderby": "post.id DESC"
+}
