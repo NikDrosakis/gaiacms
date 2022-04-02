@@ -1,13 +1,12 @@
-Gaia v.1
+Gaiacms v.0.97
 ========================
-0) Οι προυπάρχουσες version βαφτίζονται 0.χ και η παρούσα ανεβαίνει στο github 
+New system approach to blogging
+1) το πρότυπο του ipanel with ajax cache
+   pagevars at editors replaced with post_blocks
+   in different table
 
-1) το πρότυπο του ipanel με τον κασαρισμένο ajax 
-to pagevars στους editor αντικαθίσταται από το post_blocks
-σε ξεχωριστό table
-
-2) to taxonomy χωρίζεται σε cat και arango ή mongo tags,
-postax καταργείται
+2) taxonomy separated to cat και arango ή mongo tags,
+   postax deprecated
 
 3) Gaia.js καταργείται το d.db.is με το G.is
 
