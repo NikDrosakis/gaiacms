@@ -1,5 +1,5 @@
 # gaiacms
-exprerimenting simplicity in a new system approach to blogging
+simplicity in a minimal standardized approach to creating content
 
 THE MYTH
 <p>In Greek mythology, Gaia in mythology (etymology from Ancient Greek "earth") was the personification of the Earth and one of the Greek primordial deities. Gaia was the great mother of all: the primal Greek Mother Goddess; creator and giver of birth to the Earth and all the Universe; the heavenly gods, the Titans, and the Giants were born to her. </p><p>
